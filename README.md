@@ -1,4 +1,7 @@
 # black-holes
+This repository consists of work done for my senior thesis in modified theories of gravity. 
+
+Included is working code developed in FORTRAN 90 to compute properties and aspects of spherically symmetric black holes and results of the findings.  
 
 ## **black_hole_accretion**
 
