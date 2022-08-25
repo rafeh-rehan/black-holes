@@ -1,6 +1,6 @@
 # black-holes
 
-# **black_hole_accretion**
+##**black_hole_accretion**
 
 This code is designed to calculate the percent differences of the peaks of flux, temperature, and luminosity distributions between two spherically symmetric geometries.
 
@@ -9,7 +9,7 @@ The Schwarzschild geometry is taken to be the reference case. Also provided are 
 Compile as: gfortran tools.f90 roots.f90 integrate.f90 structure.f90
 
 
-# **black_hole_shadows**
+##**black_hole_shadows**
 
 This code is designed to draw shadows of spherically symmetric black holes. Given a metric and its derivatives, the geodesic equation can be solved symplectically in order to trace the path of light from a source location to an observer.
 
